@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(192, 108, 211);
+}
+.navElements {
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container {
+    max-width: 840px;
+    margin: 0 auto;
+}
+.intro {
+    text-align: center;
+}
+
+/*element selector
+class selector 
+id selector
